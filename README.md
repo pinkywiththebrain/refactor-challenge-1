@@ -9,4 +9,9 @@ In this assignment, I took the exsisting code of the Horiseon landing page and r
 
 The Horiseon landing page provides links to each of their services as well as a short discription of each.
 
-<img src="assets/images/screenshot1.png" width="700">
+<img src="assets/images/screenshot1.png" width="500">
+
+
+## Link
+
+<a href="https://pinkywiththebrain.github.io/refactor-challenge-1/">Link to the Horiseon Home Page</a>
